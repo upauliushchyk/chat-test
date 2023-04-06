@@ -1,5 +1,5 @@
 {
-  "name": "chat",
+  "name": "chat-test-upauliushchyk",
   "version": "1.0.4",
   "description": "chat-test",
   "main": "dist/index.js",
@@ -27,5 +27,6 @@
     "build:dev": "webpack --mode=development",
     "build:prod": "webpack --mode=production --node-env=production",
     "watch": "webpack --watch"
-  }
+  },
+  "gitHead": "aa4a7bed896449a7c1b5fa31a42d9eec64082ab9"
 }
