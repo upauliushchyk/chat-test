@@ -28,5 +28,18 @@
     "build:prod": "webpack --mode=production --node-env=production",
     "watch": "webpack --watch"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/upauliushchyk/chat-test.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "upauliushchyk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/upauliushchyk/chat-test/issues"
+  },
+  "homepage": "https://github.com/upauliushchyk/chat-test#readme",
   "gitHead": "aa4a7bed896449a7c1b5fa31a42d9eec64082ab9"
 }
