@@ -1,6 +1,6 @@
 {
   "name": "chat-test-upauliushchyk",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "chat-test",
   "main": "dist/index.js",
   "exports": {
